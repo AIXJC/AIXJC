@@ -193,8 +193,6 @@ I enjoy transforming ideas into functional applications, working with databases,
 
 **"Turning ideas into software, one project at a time."**
 
-</div>
-g&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer"/>
 
 ### 💻 Building. Learning. Improving.
 
