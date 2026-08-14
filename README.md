@@ -1,129 +1,219 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Alexander Uriel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Alexander%20Uriel&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Software%20%7C%20Web%20Development&descAlignY=55&descSize=20" width="100%"/>
 
-### 💻 Developer • Software & Web Development • Technology
+<br>
 
-I’m a developer passionate about building applications, solving problems and turning ideas into functional software.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alexander+Uriel+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Building+real-world+applications+%F0%9F%9A%80;Working+on+Dragones+Marinos+%F0%9F%90%89;Working+on+PDA_WMS+%F0%9F%93%A6;Always+learning+new+technologies+%F0%9F%A7%A0" />
 
-I enjoy working on **web applications, business systems, databases and software projects**, constantly learning and improving my skills.
+<br><br>
 
-<p>
-  <a href="https://github.com/">GitHub</a> •
-  <a href="https://x.com/alxjcmusic">X</a> •
-  <a href="https://instagram.com/alxjc__">Instagram</a>
-</p>
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/alxjcmusic">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/alxjc__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:alexanderucost@icloud.com">
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=2563EB&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== ABOUT ===================== -->
 
-* 🔭 Currently working on **Dragones Marinos**
-* 👨‍💻 Working on **PDA_WMS**
-* 🌱 Currently learning and improving my development skills
-* 🗄️ Interested in **databases, backend systems and application development**
-* 💡 I enjoy creating solutions for real-world problems
-* 📫 Contact: **[alexanderucost@icloud.com](mailto:alexanderucost@icloud.com)**
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### 🚀 Who am I?
+
+I'm **Alexander Uriel**, a developer passionate about creating software that solves real-world problems.
+
+I enjoy transforming ideas into functional applications, working with databases, designing systems and learning new technologies along the way.
+
+```text
+💻 Software Development
+🌐 Web Applications
+🗄️ Databases
+📦 Business Systems
+🔎 Barcode & Inventory Systems
+🚀 Continuous Learning
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Featured Projects
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 ### 🐉 Dragones Marinos
 
-A management and point-of-sale system designed for a swimming club.
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-2563EB?style=for-the-badge"/>
 
-**Features include:**
+<br><br>
 
-* 🛒 Point of Sale
-* 📦 Inventory management
-* 🔎 Barcode scanning
-* 💳 Payment management
-* 🎟️ Automatic ticket generation
-* 📊 Sales reports
-* 👥 User roles and permissions
-* 🔄 Returns and refunds
-* ⚠️ Low-stock alerts
+**Point of Sale & Management System**
 
----
+🛒 Point of Sale
+📦 Inventory
+🔎 Barcode Scanner
+💳 Payments
+🎟️ Automatic Tickets
+📊 Sales Reports
+👥 User Management
+🔄 Returns & Refunds
+⚠️ Stock Alerts
+
+</td>
+
+<td width="50%" align="center">
 
 ### 📦 PDA_WMS
 
-Warehouse and logistics management project focused on improving inventory and operational processes.
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
 
-**Technologies and concepts:**
+<br><br>
 
-* Inventory management
-* Database systems
-* Warehouse operations
-* Barcode scanning
-* Data management
-* Business processes
+**Warehouse Management System**
+
+📦 Inventory Management
+🏭 Warehouse Operations
+🔎 Barcode Scanning
+🗄️ Database Management
+📊 Data Processing
+🔄 Operational Processes
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Technologies
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs" />
+
 </p>
 
 ### 🌐 Web Development
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bootstrap,tailwind" />
+
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools & Environment
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 💡 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-Development-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-Architecture-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Development-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Architecture-4F46E5?style=for-the-badge"/>
 
 </div>
 
@@ -134,25 +224,28 @@ Warehouse and logistics management project focused on improving inventory and op
 <div align="center">
 
 <a href="mailto:alexanderucost@icloud.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://x.com/alxjcmusic">
-<img src="https://img.shields.io/badge/X-@alxjcmusic-black?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow%20me-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/alxjc__">
-<img src="https://img.shields.io/badge/Instagram-@alxjc__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer"/>
+
 ### 💻 Building. Learning. Improving.
 
-*"Turning ideas into software, one project at a time."*
+**"Turning ideas into software, one project at a time."**
 
 </div>
+
