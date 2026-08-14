@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/AIXJC">
 <img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=C084FC"/>
 </a>
 
