@@ -1,13 +1,52 @@
 <div align="center">
 
+<img src="./assets/banner.gif" width="100%">
+
 # 👋 Hi, I'm Alexander Uriel
 
-### 💻 Developer • Software & Web Development • Technology
+### 💻 Developer | Software | Web Development
 
-I’m a developer passionate about building applications, solving problems and turning ideas into functional software.
+</div>
 
-I enjoy working on **web applications, business systems, databases and software projects**, constantly learning and improving my skills.
+---
 
+## 🧑‍💻 About Me
+
+<img align="right" src="./assets/developer.gif" width="350">
+
+- 🔭 Currently working on **Dragones Marinos**
+- 📦 Working on **PDA_WMS**
+- 💻 Interested in software development
+- 🗄️ Database enthusiast
+- 🚀 Always learning new technologies
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technologies
+
+<p align="center">
+
+<img src="..." width="45">
+<img src="..." width="45">
+<img src="..." width="45">
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🐉 Dragones Marinos
+
+<img src="./assets/dragones-demo.gif" width="700">
+
+**Point of Sale • Inventory • Payments • Barcode Scanner**
+
+</div>
 <p>
   <a href="https://github.com/">GitHub</a> •
   <a href="https://x.com/alxjcmusic">X</a> •
