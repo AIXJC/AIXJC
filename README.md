@@ -186,26 +186,6 @@ I enjoy transforming ideas into functional applications, working with databases,
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 ## 💡 Currently Learning
 
 <div align="center">
