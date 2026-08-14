@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/AIXJC">
 <img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=C084FC"/>
 </a>
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=A855F7&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=AIXJC&label=Profile%20Views&color=A855F7&style=flat-square"/>
 
 </div>
 
